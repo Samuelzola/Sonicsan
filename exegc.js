@@ -3,7 +3,7 @@ const moment = require('moment-timezone');
 
 module.exports = {
   config: {
-    name: "exegc",
+    name: "bouchegc",
     aliases: ["exe"],
     version: "1.0",
     author: "AceGun",
